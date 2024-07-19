@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prepare": "husky install",
     "precommit": "eslint .",
     "format:check": "prettier --check .",
     "format:write": "prettier --write .",
